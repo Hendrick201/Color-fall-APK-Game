@@ -1,4 +1,4 @@
-![ScreenShot 1](https://github.com/user-attachments/assets/d3d49ee5-70a0-4fc1-83d6-7877c7173f51)# Color-fall-APK-Game 🎨⬇
+# Color-fall-APK-Game 🎨⬇
 Color Fall is a mobile game prototype developed in Unity using C#, inspired by Tetris. The player must catch the falling colored blocks and place them on the corresponding color slots on the floor.
 
 The game is developed in **Unity using C#**, inspired by Tetris.  
@@ -37,7 +37,7 @@ You can download the **APK for Android** from the latest release:
 ## 🖼 Screenshots
 
 ![Screenshot 1](ScreenShots/ScreenShot%201.png)  
-![Screenshot 1](ScreenShots/ScreenShot%202.png)  
+![Screenshot 2](ScreenShots/ScreenShot%202.png)  
 
 
 
