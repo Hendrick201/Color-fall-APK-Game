@@ -36,8 +36,9 @@ You can download the **APK for Android** from the latest release:
 
 ## 🖼 Screenshots
 
-![Screenshot 1](ScreenShots/ScreenShot%201.jpeg)  
-![Screenshot 2](ScreenShots/ScreenShot%202.jpeg)  
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| ![Screenshot 1](ScreenShots/ScreenShot%201.jpeg) | ![Screenshot 2](ScreenShots/ScreenShot%202.jpeg) |
 
 
 
